@@ -1,0 +1,15 @@
+F:\git_for_example\practice\TestApp\bin\Debug\net6.0\TestApp.exe
+F:\git_for_example\practice\TestApp\bin\Debug\net6.0\TestApp.deps.json
+F:\git_for_example\practice\TestApp\bin\Debug\net6.0\TestApp.runtimeconfig.json
+F:\git_for_example\practice\TestApp\bin\Debug\net6.0\TestApp.dll
+F:\git_for_example\practice\TestApp\bin\Debug\net6.0\TestApp.pdb
+F:\git_for_example\practice\TestApp\obj\Debug\net6.0\TestApp.csproj.AssemblyReference.cache
+F:\git_for_example\practice\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\git_for_example\practice\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+F:\git_for_example\practice\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+F:\git_for_example\practice\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+F:\git_for_example\practice\TestApp\obj\Debug\net6.0\TestApp.dll
+F:\git_for_example\practice\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+F:\git_for_example\practice\TestApp\obj\Debug\net6.0\TestApp.pdb
+F:\git_for_example\practice\TestApp\obj\Debug\net6.0\TestApp.genruntimeconfig.cache
+F:\git_for_example\practice\TestApp\obj\Debug\net6.0\ref\TestApp.dll
